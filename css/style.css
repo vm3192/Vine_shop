@@ -212,7 +212,7 @@ h6 {
       -ms-flex-direction: column;
           flex-direction: column;
   height: 100vh;
-  padding: 30px 0 150px;
+  padding: 30px 0 13.5%;
 }
 
 .header__top-row {
@@ -279,7 +279,7 @@ h6 {
 
 .taste {
   background-color: #282828;
-  padding: 100px 0;
+  padding: 8% 0;
 }
 
 .taste__inner {
@@ -457,6 +457,10 @@ h6 {
   .container {
     max-width: 100%;
     padding: 0 15px;
+  }
+
+  .header__inner {
+    padding: 15px 0 13.5%;
   }
 
   .header__top-row {
