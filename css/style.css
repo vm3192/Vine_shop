@@ -398,6 +398,10 @@ h6 {
     font-weight: 600;
     color: #000000 !important;
   }
+
+  .header__link:hover {
+    border-bottom: none;
+  }
 }
 
 @media (max-width: 576px) {
