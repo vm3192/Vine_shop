@@ -572,6 +572,8 @@ h6 {
 .degustation__form input,
 .degustation__form select {
   margin-bottom: 40px;
+  border: none;
+  border-radius: 0px;
   border-bottom: 1px solid #ffffff;
   background-color: transparent;
   color: #ffffff;
